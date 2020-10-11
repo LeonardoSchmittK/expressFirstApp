@@ -1,0 +1,23 @@
+{
+  "name": "nodeFirstApp",
+  "version": "1.0.0",
+  "description": "- [x] Understand the request and response concepts \r - [x] Make a server \r - [x] Use modules to iteract with the root files\r - [x] Learn something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoSchmittK/nodeFirstApp.git"
+  },
+  "keywords": [],
+  "author": "Leonardo Schmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonardoSchmittK/nodeFirstApp/issues"
+  },
+  "homepage": "https://github.com/LeonardoSchmittK/nodeFirstApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
