@@ -1,4 +1,5 @@
-# First app in NodeJS 
+# First app in Express
+-- Testing the principals
 
 - [x] Understand the request and response concepts 
 - [x] Make a server 
